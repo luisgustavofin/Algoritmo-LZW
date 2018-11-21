@@ -1,4 +1,5 @@
 # Algoritmo-LZW
+fsafsafsafsaf fsafsafsafsa fsafasfsafsa fsafsafsa!
 
 INTUITO EDUCATIVO
 
@@ -13,5 +14,3 @@ NÃO PRECISA IMPORTAR BIBLIOTECAS, SOMENTE EXECUTE O ARQUIVO:
 
 
 Digite a String e veja o retorno :)
-
-#eee
