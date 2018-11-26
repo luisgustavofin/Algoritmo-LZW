@@ -5,12 +5,12 @@ INTUITO EDUCATIVO
 
 NAO TRABALHA COM BIBLIOTECAS
 
-EXECUTE, TESTE, MODIFIQUE!!!
+<br/>EXECUTE, TESTE, MODIFIQUE!!!
 
-
+<br/><br/>
 NÃO PRECISA IMPORTAR BIBLIOTECAS, SOMENTE EXECUTE O ARQUIVO:
 
-- python algoritmo_lzw.py
+- python algoritmo_lzw.py<br/><br/>
 
 
 Digite a String e veja o retorno :)
