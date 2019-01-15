@@ -1,6 +1,6 @@
 # Algoritmo-LZW
 
-Algoritmo utilizado para compressão de dados<br/>
+Algoritmo utilizado para compressão de dados!<br/><br/>
 
 INTUITO EDUCATIVO!
 
