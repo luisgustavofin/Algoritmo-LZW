@@ -1,4 +1,4 @@
-# Algoritmo-LZW
+# Algoritmo - LZW
 
 Algoritmo utilizado para compressão de dados!<br/><br/>
 
